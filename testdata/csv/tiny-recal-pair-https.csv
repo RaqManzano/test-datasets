@@ -1,3 +1,4 @@
-patient,gender,status,sample,cram,crai
-1234,XX,0,1234N,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/1234N.recal.cram,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/1234N.recal.cram.crai
-1234,XX,1,9876T,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram.crai
+patient,lane,status,sample,cram,crai
+1234,LX,0,1234N,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/1234N.recal.cram,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/1234N.recal.cram.crai
+1234,LX,1,9876T,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram.crai
+1234,LX,2,9876T,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram,https://raw.githubusercontent.com/nf-core/test-datasets/sarek/testdata/recalcram/9876T.recal.cram.crai
